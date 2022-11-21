@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1648742663 source:c:\users\william\documents\space game\main.cpp
+	"OpenGL.h"
+	"render.h"
+	"keybinds.h"
+	"rng.h"
+	"playsound.h"
+
+1646842540 c:\users\william\documents\space game\initgl.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<stdio.h>
+
+1648653663 c:\users\william\documents\space game\cube.h
+	"OpenGL.h"
+
+1648653673 source:c:\users\william\documents\space game\cube.cpp
+	"OpenGL.h"
+	"cube.h"
+
+1647874880 c:\users\william\documents\space game\render.h
+	"OpenGL.h"
+	"cube.h"
+	"keybinds.h"
+	"rng.h"
+
+1648742377 source:c:\users\william\documents\space game\render.cpp
+	"OpenGL.h"
+	"cube.h"
+	"rng.h"
+	"keybinds.h"
+	"sphere.h"
+	"player.h"
+	"triangle.h"
+	"render.h"
+
+1647874892 c:\users\william\documents\space game\keybinds.h
+	"OpenGL.h"
+	"render.h"
+
+1648742657 source:c:\users\william\documents\space game\keybinds.cpp
+	"OpenGL.h"
+	"rng.h"
+	"keybinds.h"
+	"render.h"
+	"playsound.h"
+
+1647726265 c:\users\william\documents\space game\rng.h
+	"OpenGL.h"
+	"cube.h"
+
+1647730740 source:c:\users\william\documents\space game\rng.cpp
+	"OpenGL.h"
+	"cube.h"
+	"rng.h"
+
+1648824743 c:\users\william\documents\space game\opengl.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1647274167 c:\users\william\documents\space game\ship.h
+	"OpenGL.h"
+	"cube.h"
+	"rng.h"
+	"room.h"
+
+1647613511 c:\users\william\documents\space game\room.h
+	"OpenGL.h"
+	"cube.h"
+	"rng.h"
+
+1647273790 source:c:\users\william\documents\space game\ship.cpp
+	"OpenGL.h"
+	"cube.h"
+	"rng.h"
+	"room.h"
+	"ship.h"
+
+1647613505 source:c:\users\william\documents\space game\room.cpp
+	"OpenGL.h"
+	"room.h"
+	"cube.h"
+	"rng.h"
+
+1647615077 c:\users\william\documents\space game\shaders.h
+	"OpenGL.h"
+
+1647615257 source:c:\users\william\documents\space game\shaders.cpp
+	"OpenGL.h"
+	"shaders.h"
+
+1648566801 source:c:\users\william\documents\space game\sphere.cpp
+	"OpenGL.h"
+	"sphere.h"
+
+1647616023 c:\users\william\documents\space game\sphere.h
+	"OpenGL.h"
+
+1647973366 c:\users\william\documents\space game\player.h
+	"OpenGL.h"
+
+1647964543 source:c:\users\william\documents\space game\player.cpp
+	"OpenGL.h"
+	"player.h"
+
+1648221688 c:\users\william\documents\space game\playsound.h
+	<AL/al.h>
+	<string>
+
+1648046394 c:\users\william\documents\space game\sndhelp.h
+	<AL/al.h>
+
+1648047732 source:c:\users\william\documents\space game\sndhelp.cpp
+	"sndhelp.h"
+	<stdio.h>
+	<errno.h>
+	<string.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<AL/alext.h>
+	<windows.h>
+	<mmsystem.h>
+	<sys/time.h>
+	<unistd.h>
+	<time.h>
+
+1648223218 source:c:\users\william\documents\space game\playsound.cpp
+	<AL/al.h>
+	<AL/alc.h>
+	<AL/alext.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstring>
+	"playsound.h"
+
+1648569476 source:c:\users\william\documents\space game\line.cpp
+	"line.h"
+	"vec3.h"
+
+1648569300 c:\users\william\documents\space game\line.h
+	"vec3.h"
+
+1648481376 c:\users\william\documents\space game\vec3.h
+	<math.h>
+
+1648654741 c:\users\william\documents\space game\triangle.h
+	"vec3.h"
+	"line.h"
+	"OpenGL.h"
+	"cube.h"
+
+1648481396 source:c:\users\william\documents\space game\vec3.cpp
+	"vec3.h"
+
+1648741974 source:c:\users\william\documents\space game\triangle.cpp
+	"line.h"
+	"vec3.h"
+	"OpenGL.h"
+	"triangle.h"
+	"cube.h"
+
+1648824895 source:c:\users\william\documents\space game\color.cpp
+	"color.h"
+	"OpenGL.h"
+
+1648825589 c:\users\william\documents\space game\color.h
+	"OpenGL.h"
+
